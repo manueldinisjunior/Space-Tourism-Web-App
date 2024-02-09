@@ -38,10 +38,10 @@ Users should be able to:
 
 ## Author
 
-- Website - [SLGPLAY](https://www.manueldinisjunior.com)
-- Frontend Mentor - [@ManuelDinisJunior](https://www.frontendmentor.io/profile/manueldinisjunior)
-- Github - [@manueldinisjunior](https://github.com/manueldinisjunior)
-- LinkedIn - [@t-induwara](https://www.linkedin.com/in/manueldinisjunior)
+- [Web Portfolio](https://www.manueldinisjunior.com)
+- [Frontend Mentor](https://www.frontendmentor.io/profile/manueldinisjunior)
+- [Git Hub](https://github.com/manueldinisjunior)
+- [LinkedIn](https://www.linkedin.com/in/manueldinisjunior)
 
 ## Acknowledgments
 
