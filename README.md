@@ -8,11 +8,6 @@ This is a solution to the [Space tourism website challenge on Frontend Mentor](h
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -35,76 +30,6 @@ Users should be able to:
 - Solution URL: [Click here](https://www.frontendmentor.io/solutions/space-tourism-multipage-website-1DWxFcFiU)
 - Live Site URL: [Click here](https://space-tourism-multi-page-website-one.vercel.app/)
 
-## My process
-
-### Built with
-
-- Semantic HTML5 markup
-- CSS custom properties
-- Bootstrap grid
-- JavaScript
-
-### What I learned
-
-When developing this Space tourism multi page website project, these new things I have learned.
-
--How to read current browser window URL and using that output how to initiate things in script.
-
-```js
-if(window.location.href.indexOf("index") != -1){
-    homeNavBtn.classList.add("nav-btn-active");
-}
-else if(window.location.href.indexOf("destination") != -1){
-    destNavBtn.classList.add("nav-btn-active");
-    homeNavBtn.classList.remove("nav-btn-active");
-}
-else if(window.location.href.indexOf("crew") != -1){
-    crewNavBtn.classList.add("nav-btn-active");
-    homeNavBtn.classList.remove("nav-btn-active");
-}
-else if(window.location.href.indexOf("tech") != -1){
-    techNavBtn.classList.add("nav-btn-active");
-    homeNavBtn.classList.remove("nav-btn-active");
-}
-```
-----
-
--How to work with responsive breakpoints using JavaScript script.
-
-```js
-techBtn1.addEventListener('click', changeImg1);
-function changeImg1(){
-    if (sWidth >= 1280){
-        tecImage.style.backgroundImage = "url(/assets/technology/image-launch-vehicle-portrait.jpg)";
-    }
-    else if (sWidth >= 768){
-        tecImage.style.backgroundImage = "url(/assets/technology/image-launch-vehicle-landscape.jpg)";
-    }
-    else if (sWidth >= 375){
-        tecImage.style.backgroundImage = "url(/assets/technology/image-launch-vehicle-landscape.jpg)";
-    }
-}
-```
-----
-
--Most importantly, I learned using **onload** is a bad practise. Instead of using **onload** event, it is better to use **load** with **addEventListner**.
-
-```js
-window.addEventListener('load',crewFunc);
-```
-
-### Continued development
-
-There are some multiple issues that I have faced constantly during this project. Those are,
-
--The browser console showing me some errors as below.
-
-***Uncaught TypeError: Cannot read properties of null (reading 'classList')***
-
-----
-***Uncaught TypeError: Cannot set properties of null (setting 'onclick')***
-
-Nevertheless, there are no any not working sections in the live site. So, I couldn't manage to find a way to resolve these issues. I am intend to find the solutions for these issues in the future projects.
 
 ### Useful resources
 
@@ -113,10 +38,10 @@ Nevertheless, there are no any not working sections in the live site. So, I coul
 
 ## Author
 
-- Website - [SLGPLAY](https://www.slgplay.net)
-- Frontend Mentor - [@T-Induwara](https://www.frontendmentor.io/profile/T-Induwara)
-- Github - [@T-Induwara](https://github.com/T-Induwara)
-- LinkedIn - [@t-induwara](https://www.linkedin.com/in/t-induwara/)
+- Website - [SLGPLAY](https://www.manueldinisjunior.com)
+- Frontend Mentor - [@ManuelDinisJunior](https://www.frontendmentor.io/profile/manueldinisjunior)
+- Github - [@manueldinisjunior](https://github.com/manueldinisjunior)
+- LinkedIn - [@t-induwara](https://www.linkedin.com/in/manueldinisjunior)
 
 ## Acknowledgments
 
