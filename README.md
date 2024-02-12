@@ -1,4 +1,4 @@
-# Frontend Mentor - Space tourism website solution
+# Challenge - Space Tourism Web App Solution
 
 This is a solution to the [Space tourism website challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/space-tourism-multipage-website-gRWj1URZ3).
 
