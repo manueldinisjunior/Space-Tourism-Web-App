@@ -31,7 +31,7 @@ Users should be able to:
 - Live Site URL: [Click here](https://space-tourism-multi-page-website-one.vercel.app/)
 
 
-### Useful resources
+### Useful resources 
 
 - [Stackoverflow](https://stackoverflow.com/) - This helped me for many issues I have faced during the development of the project.
 - [W3Schools](https://www.w3schools.com/) - Same as **Stackoverflow** , this helped me to understand some fundamental things about CSS and JS.
