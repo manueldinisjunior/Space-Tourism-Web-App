@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Useful resources 
 
-- [Stackoverflow](https://stackoverflow.com/) - This helped me for many issues I have faced during the development of the project.
-- [W3Schools](https://www.w3schools.com/) - Same as **Stackoverflow** , this helped me to understand some fundamental things about CSS and JS.
+- [Stackoverflow](https://stackoverflow.com/) - This helped me with many issues I have faced during the development of the project.
+- [W3Schools](https://www.w3schools.com/) - Same as **Stackoverflow**, this helped me to understand some fundamental things about CSS and JS.
 
 ## Author
 
@@ -42,7 +42,7 @@ Users should be able to:
 - [Frontend Mentor](https://www.frontendmentor.io/profile/manueldinisjunior)
 - [Git Hub](https://github.com/manueldinisjunior)
 - [LinkedIn](https://www.linkedin.com/in/manueldinisjunior)
-
+ 
 ## Acknowledgments
 
-I want to give thanks specially to [Web Dev Simplified](https://youtu.be/At4B7A4GOPg) YouTube channel for helping me to get some inspiration to develop the navbar of this project.
+I want to give thanks especially to [Web Dev Simplified](https://youtu.be/At4B7A4GOPg) YouTube channel for helping me to get some inspiration to develop the navbar of this project.
